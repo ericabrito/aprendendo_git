@@ -1,0 +1,13 @@
+o git então é  um sistema  de controle de versões  dis  distribuído,usado principalmente no desenvolvimento do software, mas que pode ser usado para registar o historico de edições de qualquer tipo de arquivos.As principais funções dessa ferramenta são.
+Permite que os desevolvdores trabalhem simultaneamente
+Não permite substit as alteração um do outro
+Mantem um histórico de toda as versões.
+É um siste de controle de versão descentrtralizado.
+
+instalação
+Configurações inici
+Primeiros comandos
+gitgnore e tags
+Criando reposi
+         clono o arquivo remoto
+          Enviando para o  repositorio.
